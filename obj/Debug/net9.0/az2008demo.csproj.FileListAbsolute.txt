@@ -1,0 +1,15 @@
+C:\Users\ajaylodha\az400\demo\az2008demo\bin\Debug\net9.0\az2008demo.exe
+C:\Users\ajaylodha\az400\demo\az2008demo\bin\Debug\net9.0\az2008demo.deps.json
+C:\Users\ajaylodha\az400\demo\az2008demo\bin\Debug\net9.0\az2008demo.runtimeconfig.json
+C:\Users\ajaylodha\az400\demo\az2008demo\bin\Debug\net9.0\az2008demo.dll
+C:\Users\ajaylodha\az400\demo\az2008demo\bin\Debug\net9.0\az2008demo.pdb
+C:\Users\ajaylodha\az400\demo\az2008demo\obj\Debug\net9.0\az2008demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajaylodha\az400\demo\az2008demo\obj\Debug\net9.0\az2008demo.AssemblyInfoInputs.cache
+C:\Users\ajaylodha\az400\demo\az2008demo\obj\Debug\net9.0\az2008demo.AssemblyInfo.cs
+C:\Users\ajaylodha\az400\demo\az2008demo\obj\Debug\net9.0\az2008demo.csproj.CoreCompileInputs.cache
+C:\Users\ajaylodha\az400\demo\az2008demo\obj\Debug\net9.0\az2008demo.sourcelink.json
+C:\Users\ajaylodha\az400\demo\az2008demo\obj\Debug\net9.0\az2008demo.dll
+C:\Users\ajaylodha\az400\demo\az2008demo\obj\Debug\net9.0\refint\az2008demo.dll
+C:\Users\ajaylodha\az400\demo\az2008demo\obj\Debug\net9.0\az2008demo.pdb
+C:\Users\ajaylodha\az400\demo\az2008demo\obj\Debug\net9.0\az2008demo.genruntimeconfig.cache
+C:\Users\ajaylodha\az400\demo\az2008demo\obj\Debug\net9.0\ref\az2008demo.dll
